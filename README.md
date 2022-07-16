@@ -2,7 +2,7 @@
 
 >**Warning**
 >
->This reposatory is discontinued and will not recieve any updates in the future.
+>This repository is discontinued and will not receive any updates in the future.
 
 A pruductivity app that blocks the selected apps while it is active.
 
