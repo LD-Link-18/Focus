@@ -4,7 +4,7 @@
 >
 >This reposatory is discontinued and will not recieve any updates in the future.
 
-A pruductivity app that blocks the selected apps for a time period that the user selects.
+A pruductivity app that blocks the selected apps while it is active.
 
 # Attention
 * Adding programs is case sensetive and requires ".exe" file extention at the end.
