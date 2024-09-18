@@ -1,4 +1,4 @@
-# Focus-Discontinued
+# Focus
 
 >**Warning**
 >
