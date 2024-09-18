@@ -1,6 +1,6 @@
 # Focus
 
->**Warning**
+>[!WARNING]
 >
 >This project is discontinued and will not receive any updates in the future.
 
